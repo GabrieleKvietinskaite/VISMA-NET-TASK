@@ -1,0 +1,25 @@
+[
+    {
+        "FirstName": "Vardenis",
+        "LastName": "Pavardenis",
+        "PhoneNumbers": [
+            37069158457,
+            37058915475,
+            37045625791,
+            37054962479,
+            37061197556
+        ],
+        "Address": "Liepu 14"
+    },
+    {
+        "FirstName": "Antanas",
+        "LastName": "Antanaitis",
+        "PhoneNumbers": [
+            37012314795,
+            34758915475,
+            49545136591,
+            35795145620
+        ],
+        "Address": "Palangos g. 1A"
+    }
+]
